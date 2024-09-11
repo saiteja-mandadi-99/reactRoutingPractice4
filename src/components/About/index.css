@@ -1,1 +1,25 @@
 /* Write your CSS code here */
+.aboutContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 50vh;
+  width: 150px;
+  padding: 10px;
+}
+.heading {
+  color: #6d396b;
+  font-family: Roboto;
+  font-size: 40px;
+  padding: 10px;
+  font-weight: bold;
+}
+.paragraph {
+  color: #555555;
+  font-family: Roboto;
+  font-size: 30px;
+  padding: 10px;
+}
